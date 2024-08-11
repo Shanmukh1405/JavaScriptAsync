@@ -1,27 +1,9 @@
 # JavaScriptAsync
 
-# Project Title
-
 ## Description
-A brief description of your project.
+Async learnings
 
-## Installation
-Steps to install and set up the project.
-
-```bash
-# Example command
-git clone https://github.com/your-username/your-repository.git
-
-
-### 3. **Save the File**
-- After editing the file, save it (`Ctrl + S`).
-
-### 4. **Stage the Changes**
-- Go to the Source Control panel in VSCode or use the terminal.
-- Run:
-  ```bash
-  git add README.md
-  ```
+ 
 
 ### 5. **Commit the Changes**
 - In the Source Control panel, write a commit message like "Update README file" and commit the changes.
